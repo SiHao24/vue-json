@@ -20,4 +20,4 @@ For a detailed explanation on how things work, check out the [guide](http://vuej
 
 json渲染页面   
 ### 效果图  
-![效果图]()
+![效果图](https://github.com/SiHao24/vue-json/blob/master/src/assets/images/result.png)
